@@ -1,10 +1,12 @@
-## Git and GitHub Workshop
-### Session 1
+# Git and GitHub Workshop
+## Session 1
 Let's Get familiar with git and github
+**Suggested day for meetup 2018/03/07 18.15 to 19.15**
+you will be informed about more details
 
-##### what is git ?
+### what is git ?
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. [git-scm.com](https://git-scm.com/) <br><br>
-##### why should I use it?
+### why should I use it?
 You can find one of the best answer in [Quora](https://www.quora.com/What-is-git-and-why-should-I-use-it)<br><br>
 
 
