@@ -40,10 +40,22 @@ You can find one of the best answer in [Quora](https://www.quora.com/What-is-git
 - Power Extensions
 - Dongle if there is problem with university wifi
 
+<!-- type form script -->
 <a class="typeform-share button" href="https://janith1.typeform.com/to/xziGud" data-mode="popup" style="display:inline-block;text-decoration:none;background-color:#267DDD;color:white;cursor:pointer;font-family:Helvetica,Arial,sans-serif;font-size:20px;line-height:50px;text-align:center;margin:0;height:50px;padding:0px 33px;border-radius:25px;max-width:100%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;font-weight:bold;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;" target="_blank">Click me to add comments </a> <script> (function() { var qs,js,q,s,d=document, gi=d.getElementById, ce=d.createElement, gt=d.getElementsByTagName, id="typef_orm_share", b="https://embed.typeform.com/"; if(!gi.call(d,id)){ js=ce.call(d,"script"); js.id=id; js.src=b+"embed.js"; q=gt.call(d,"script")[0]; q.parentNode.insertBefore(js,q) } })() </script><br>
 For further information drop an email to **uwu.cc@mozilla.lk**
 
 
-
+<!-- hit counter -->
 <img src="https://counter4.freecounter.ovh/private/freecounterstat.php?c=955usr8m9qdx5mq9m336bnxzbrgd1tpw" border="0" title="free website counters" alt="free website counters">
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-109098685-4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-109098685-4');
+</script>
+
 
