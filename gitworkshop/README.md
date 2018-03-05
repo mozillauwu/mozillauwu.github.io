@@ -18,8 +18,8 @@ You can find one of the best answer in [Quora](https://www.quora.com/What-is-git
 - Creating git repository
 - Git workflow
 - Staging and committing content
-- Git basic commands
-- Useful linux commands
+- Git basic commands (git init, git status, git add, git commit, git log, git diff, git branch, git checkout, git push, .....)
+- Useful linux commands (ls, touch, mkdir, cd, ....)
 - Git branching and merging
 - Introduction to Github
 - How to connect with Github using Git commands
@@ -27,8 +27,8 @@ You can find one of the best answer in [Quora](https://www.quora.com/What-is-git
 ### What you need to do before coming to this workshop
 
 - Download and install Git <br/>
-**Windows** : [https://git-scm.com/download/win](https://git-scm.com/download/win) <br/>
-**Linux** : [https://help.ubuntu.com/lts/serverguide/git.html](https://help.ubuntu.com/lts/serverguide/git.html)
+**Windows** : [Download here for windows](https://git-scm.com/download/win) <br/>
+**Linux** : [Install here for linux](https://help.ubuntu.com/lts/serverguide/git.html)
 - Watch this tutorial
 
 <div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/Y9XZQO1n_7c?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
