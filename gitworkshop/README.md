@@ -4,7 +4,7 @@ Let's Get familiar with git and github
 
 ##### what is git ? <br>
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. [git-scm.com](https://git-scm.com/) <br><br>
-##### why should I use it? <br>
+##### why should I use it?
 You can find one of the best answer in [Quora](https://www.quora.com/What-is-git-and-why-should-I-use-it)
 
 
