@@ -2,7 +2,6 @@
 ## Session 1
 Let's Get familiar with git and github
 **The date for the meetup will be announced soon**
-you will be informed about more details
 
 ### what is git ?
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. [git-scm.com](https://git-scm.com/) <br><br>
