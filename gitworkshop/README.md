@@ -27,6 +27,13 @@ Git is a free and open source distributed version control system designed to han
 - Download and install Git <br/>
 **Windows** : [https://git-scm.com/download/win](https://git-scm.com/download/win) <br/>
 **Linux** : [https://help.ubuntu.com/lts/serverguide/git.html](https://help.ubuntu.com/lts/serverguide/git.html)
-
+- Watch this tutorial
 
 <div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/Y9XZQO1n_7c?ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
+
+
+### What you need to bring
+
+- Laptop with charger
+- Power Extensions
+- Dongle if there is problem with university wifi
