@@ -38,5 +38,5 @@ You can find one of the best answer in [Quora](https://www.quora.com/What-is-git
 - Power Extensions
 - Dongle if there is problem with university wifi
 
-For further information drop an email to ** uwu.cc@mozilla.lk **
+For further information drop an email to **uwu.cc@mozilla.lk**
 
