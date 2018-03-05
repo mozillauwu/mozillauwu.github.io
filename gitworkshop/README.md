@@ -25,7 +25,7 @@ Git is a free and open source distributed version control system designed to han
 ### What you need to do before coming to this workshop
 
 - Download and install Git <br/>
-**Windows** : [https://git-scm.com/download/win](https://git-scm.com/download/win)
+**Windows** : [https://git-scm.com/download/win](https://git-scm.com/download/win) <br/>
 **Linux** : [https://help.ubuntu.com/lts/serverguide/git.html](https://help.ubuntu.com/lts/serverguide/git.html)
 
 
