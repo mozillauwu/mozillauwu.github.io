@@ -1,7 +1,7 @@
 # Git and GitHub Workshop
 ## Session 1
 Let's Get familiar with git and github
-**Suggested day for meetup 2018/03/07 from 18.15 to 19.15**
+**The date for the meetup will be announced soon**
 you will be informed about more details
 
 ### what is git ?
