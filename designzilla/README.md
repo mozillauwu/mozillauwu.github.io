@@ -12,4 +12,20 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 3. Submit your one page website as a compressed zip file to https://mozillauwu.github.io/designzilla/submission
 
-**Winners will be selected according to the [scoring scheme](#scoringscheme) by [judges](#judges)**
+**Winners will be selected according to the [scoring scheme](#scoring-scheme) by [judges](#judges)**
+
+
+### Scoring scheme
+
+- Selecting good appropriate template - __10 points__
+- Template license - __10 points__
+- Responsiveness - __10 points__
+- Resources usage - __10 points__
+- Creative arrangement of things - __30 points__
+- Covering basic requirements - __30 points__
+
+### Judges 
+
+- [Shalitha Suranga](https://github.com/shalithasuranga)
+
+
