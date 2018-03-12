@@ -8,11 +8,15 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 1. Select a good HTML template (If they have a LICENSE keep it as it is). 
 
-2. Design a simple one page website for “Mozilla Campus Club - UWU”
+2. Design a simple one page website for “Mozilla Campus Club - UWU” using given [resources](#resources)
 
-3. Submit your one page website as a compressed zip file to https://mozillauwu.github.io/designzilla/submission
+3. Submit your one page website as a compressed zip file to [Submission](submission) form.
 
 **Winners will be selected according to the [scoring scheme](#scoring-scheme) by [judges](#judges)**
+
+### Resources
+
+[Download](download/DesignZillaResources.zip) resources zip file (Contains presentations, Textual information, Links, Images and Video links).
 
 ### Winners 
 
