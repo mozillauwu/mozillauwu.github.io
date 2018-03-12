@@ -16,7 +16,7 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 ### Resources
 
-[Download](download/DesignZillaResources.zip) resources zip file (Contains presentations, Textual information, Links, Images and Video links).
+[Download](download/DesignZillaResources.zip) resources zip file (Contains Presentations, Textual information, Links, Images and Video links).
 
 ### Timeline 
 
