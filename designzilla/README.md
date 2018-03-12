@@ -12,4 +12,4 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 3. Submit your one page website as a compressed zip file to https://mozillauwu.github.io/designzilla/submission
 
-** Winners will be selected according to the [scoring scheme](#scoringscheme) by [judges](#judges) ***
+**Winners will be selected according to the [scoring scheme](#scoringscheme) by [judges](#judges)**
