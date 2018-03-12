@@ -18,6 +18,11 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 [Download](download/DesignZillaResources.zip) resources zip file (Contains presentations, Textual information, Links, Images and Video links).
 
+### Timeline 
+
+Contest starts : 13<sup>th</sup> of March 00:00 AM
+Contest ends : 19<sup>th</sup> of March 00:00 AM (Submit your works via [form](submission))
+
 ### Winners 
 
 3 Winners will be selected and the most creative web site will be published to [www.mozillauwu.github.io](https://mozillauwu.github.io/) as the official page of "Mozilla Campus Club - UWU"
