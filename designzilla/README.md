@@ -1,8 +1,8 @@
 # DesignZilla
-## One Page Website Design Contest
+## One Page Website Design Hackathon
 
 
-DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-page-website) design contest where you have to design a simple website page for “Mozilla Campus Club - UWU”. 
+DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-page-website) design hackathon where you have to design a simple website page for “Mozilla Campus Club - UWU”. 
 
 ### Task
 
@@ -20,8 +20,8 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 ### Timeline 
 
-Contest starts : 13<sup>th</sup> of March 00:00 AM
-Contest ends : 19<sup>th</sup> of March 00:00 AM (Submit your works via [form](submission))
+Hackathon starts : 13<sup>th</sup> of March 00:00 AM
+Hackathon ends : 19<sup>th</sup> of March 00:00 AM (Submit your works via [form](submission))
 
 ### Winners 
 
