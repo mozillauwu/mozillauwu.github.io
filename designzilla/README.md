@@ -1,5 +1,5 @@
 # DesignZilla
-## Single Page Web Design Contest
+## One Page Website Design Contest
 
 
 DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-page-website) design contest where you have to design a simple website page for “Mozilla Campus Club - UWU”. 
