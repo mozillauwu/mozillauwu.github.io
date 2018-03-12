@@ -14,6 +14,14 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 **Winners will be selected according to the [scoring scheme](#scoring-scheme) by [judges](#judges)**
 
+### Winners 
+
+3 Winners will be selected and the most creative web site will be published to [www.mozillauwu.github.io](https://mozillauwu.github.io/) as the official page of "Mozilla Campus Club - UWU"
+
+### Prizes 
+
+To be announced later. **Surprise!!!**
+
 
 ### Scoring scheme
 
@@ -27,5 +35,4 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 ### Judges 
 
 - [Shalitha Suranga](https://github.com/shalithasuranga)
-
 
