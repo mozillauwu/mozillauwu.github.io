@@ -2,7 +2,7 @@
 ## One Page Website Design Hackathon
 
 
-DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-page-website) design hackathon where you have to design a simple website page for “Mozilla Campus Club - UWU”. 
+DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-page-website) design hackathon where you have to design a simple web page for “Mozilla Campus Club - UWU”. 
 
 ### Task
 
