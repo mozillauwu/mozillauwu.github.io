@@ -1,4 +1,6 @@
-<img src="/designzilla.png" style="align: center;">
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/mozillauwu/mozillauwu.github.io/master/designzilla/deisgnzilla.png"/>
+</div>
 ## One Page Website Design Hackathon
 
 
