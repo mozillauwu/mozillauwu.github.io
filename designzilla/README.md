@@ -23,7 +23,7 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 ### Timeline 
 
 - Hackathon starts : 14<sup>th</sup> of March 00:00 AM
-- Hackathon ends : 21<sup>th</sup> of March 00:00 AM (Submit your works via [form](submission))
+- Hackathon ends : 20<sup>th</sup> of March 00:00 AM (Submit your works via [form](submission))
 - Awarding ceremony : last week of March at Uva Wellassa University 
 
 ### Winners 
