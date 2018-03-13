@@ -1,4 +1,4 @@
-<img src="designzilla.png" style="align: center;">
+<img src="/designzilla.png" style="align: center;">
 ## One Page Website Design Hackathon
 
 
