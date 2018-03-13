@@ -20,14 +20,33 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 ### Timeline 
 
-Hackathon starts : 13<sup>th</sup> of March 00:00 AM
-Hackathon ends : 19<sup>th</sup> of March 00:00 AM (Submit your works via [form](submission))
+- Hackathon starts : 14<sup>th</sup> of March 00:00 AM
+- Hackathon ends : 21<sup>th</sup> of March 00:00 AM (Submit your works via [form](submission))
+- Awarding ceremony : last week of March at Uva Wellassa University 
 
 ### Winners 
 
 3 Winners will be selected and the most creative web site will be published to [www.mozillauwu.github.io](https://mozillauwu.github.io/) as the official page of "Mozilla Campus Club - UWU"
 
 ### Prizes 
+
+#### First Place
+
+- ***Prize will be announced soon***
+- [Socialbox](https://www.socialbox.co.com/pricing) gold account (1 year) 
+- Mozilla Swag pack + Additional Stickers
+
+#### 1st Runner up
+
+- ***Prize will be announced soon***
+- [Socialbox](https://www.socialbox.co.com/pricing)  silver account (1 year)
+- Mozilla Swag pack
+
+#### 2nd Runner up
+- ***Prize will be announced soon***
+- [Socialbox](https://www.socialbox.co.com/pricing)  basic account (1 year)
+- Mozilla Swag pack
+
 
 To be announced later. **Surprise!!!**
 
