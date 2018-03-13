@@ -1,8 +1,8 @@
-<div style="text-align: center;">
-  <img src="https://raw.githubusercontent.com/mozillauwu/mozillauwu.github.io/master/designzilla/deisgnzilla.png"/>
+<div align="center">
+  <img src="deisgnzilla.png" style="width:600px;"  />
 </div>
-## One Page Website Design Hackathon
 
+## One Page Website Design Hackathon
 
 DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-page-website) design hackathon where you have to design a simple web page for “Mozilla Campus Club - UWU”. 
 
