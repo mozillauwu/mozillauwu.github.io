@@ -64,5 +64,6 @@ To be announced later. **Surprise!!!**
 
 ### Judges 
 
-- [Shalitha Suranga](https://github.com/shalithasuranga)
+- [Ruwan Ranganath](https://github.com/Ruwan-Ranganath) - _Mozilla Sri Lanka_
+- [Shalitha Suranga](https://github.com/shalithasuranga) - _Mozilla Campus Club - UWU_
 
