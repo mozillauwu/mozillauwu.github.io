@@ -66,4 +66,4 @@ To be announced later. **Surprise!!!**
 
 - [Ruwan Ranganath](https://github.com/Ruwan-Ranganath) - _Mozilla Sri Lanka_
 - [Shalitha Suranga](https://github.com/shalithasuranga) - _Mozilla Campus Club - UWU_
-
+- [Imesh Umayanga](https://github.com/imesh94) - _Mozilla Campus Club - UWU_
