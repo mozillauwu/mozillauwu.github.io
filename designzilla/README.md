@@ -36,17 +36,20 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 - ***Prize will be announced soon***
 - [Socialbox](https://www.socialbox.co.com/pricing) gold account (1 year) 
+- [Eezpal](https://eezpal.com) Lifetime web hosting - Igneous (100GB Storage)
 - Mozilla Swag pack + Additional Stickers
 
 #### 1st Runner up
 
 - ***Prize will be announced soon***
 - [Socialbox](https://www.socialbox.co.com/pricing)  silver account (1 year)
+- [Eezpal](https://eezpal.com) Lifetime web hosting - Metamorphic (50GB Storage) 
 - Mozilla Swag pack
 
 #### 2nd Runner up
 - ***Prize will be announced soon***
 - [Socialbox](https://www.socialbox.co.com/pricing)  basic account (1 year)
+- [Eezpal](https://eezpal.com) Lifetime web hosting - Sedimentary (25GB Storage)
 - Mozilla Swag pack
 
 
