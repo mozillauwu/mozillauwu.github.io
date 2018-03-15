@@ -8,7 +8,7 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 ### Task
 
-1. Select a good HTML template (If they have a LICENSE keep it as it is). 
+1. Select a good HTML template (If they have licenses create single `LICENSE.md`). 
 
 2. Design a simple one page website for “Mozilla Campus Club - UWU” using given [resources](#resources)
 
