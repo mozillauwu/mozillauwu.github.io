@@ -58,12 +58,12 @@ To be announced later. **Surprise!!!**
 
 ### Scoring scheme
 
-- Selecting good appropriate template - __10 points__
-- Template license - __10 points__
-- Responsiveness - __10 points__
-- Resources usage - __10 points__
-- Creative arrangement of things - __30 points__
-- Covering basic requirements - __30 points__
+- #C01 Selecting good appropriate template - __10 points__
+- #C02 Template license - __10 points__
+- #C03 Responsiveness - __10 points__
+- #C04 Resources usage - __10 points__
+- #C05 Creative arrangement of things - __30 points__
+- #C06 Covering basic requirements - __30 points__
 
 ### Judges 
 
