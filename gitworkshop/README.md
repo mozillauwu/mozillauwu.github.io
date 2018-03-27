@@ -1,7 +1,7 @@
 # Git and GitHub Workshop
-## Session 1
+## Session 1 | 29<sup>th</sup> March at Main Lecture Theatre, Uva Wellassa University  
 Let's Get familiar with git and github
-**The date for the meetup will be announced soon**
+
 
 ### what is git ?
 Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. [git-scm.com](https://git-scm.com/) <br><br>
