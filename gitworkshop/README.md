@@ -1,5 +1,6 @@
 # Git and GitHub Workshop
-## Session 1 | 29<sup>th</sup> March at Main Lecture Theatre, Uva Wellassa University  
+## Session 1
+### 29<sup>th</sup> March 5pm to 7pm at Main Lecture Theatre, Uva Wellassa University  
 Let's Get familiar with git and github
 
 
