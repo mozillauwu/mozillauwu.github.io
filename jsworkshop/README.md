@@ -2,7 +2,8 @@
 
 - Duration - 2 to 3 hours
 - Type - Practical workshop
-- Pending requirements - some swags for participants
+- Time - 19th of April 5.00pm to 7.30pm
+- Venue - MLT
 
 ### Introduction (5 min) - SPEAKER 1
 
