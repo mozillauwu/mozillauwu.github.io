@@ -11,7 +11,7 @@
 - Why Js is important to foss
 
 
-### Start Coding (30 min) - SPEAKER 1
+### Start Coding (30 min) - SPEAKER 2
 - How to execute js in your browser
 - “Hello Uva” program
 - Variables 
