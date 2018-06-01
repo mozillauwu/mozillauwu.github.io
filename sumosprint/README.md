@@ -1,8 +1,8 @@
 # SUMO Sprint - Firefox Support Sprint
 ## by Mozilla Campus Club - UWU
 
-7<sup>th</sup> of June at Uva Wellassa University
-Time and Venue: TBA
+- 7<sup>th</sup> of June at Uva Wellassa University
+- Time and Venue: TBA
 
 Help Firefox win on Android Support users in your language!
 
