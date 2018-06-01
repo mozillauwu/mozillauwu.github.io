@@ -1,6 +1,10 @@
 # SUMO Sprint - Firefox Support Sprint
 ## by Mozilla Campus Club - UWU
 
+<center>
+<img src="spintbanner.png"/>
+</center>
+
 - 7<sup>th</sup> of June at Uva Wellassa University
 - Time and Venue: TBA
 
