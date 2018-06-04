@@ -6,7 +6,7 @@
 </center>
 
 - 7<sup>th</sup> of June at Uva Wellassa University
-- Time and Venue: TBA
+- Time and Venue: 5.00 pm onward at Main Lecture Theater 
 
 Help Firefox win on Android Support users in your language!
 
