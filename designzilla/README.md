@@ -32,7 +32,7 @@ DesignZilla V2.0 is [one page website](https://onepagelove.com/what-exactly-is-a
 
 ### Prizes 
 
-#### First Place
+<!-- #### First Place -->
 
 <!-- - ***Prize will be announced soon***
 - [Socialbox](https://www.socialbox.co.com/pricing) gold account (1 year) 
