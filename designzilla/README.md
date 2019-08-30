@@ -4,13 +4,13 @@
 
 ## One Page Website Design Hackathon
 
-DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-page-website) design hackathon where you have to design a simple web page for “Mozilla Campus Club - UWU”. 
+DesignZilla V2.0 is [one page website](https://onepagelove.com/what-exactly-is-a-one-page-website) design hackathon where you have to design a simple web page for “Computer Society - UWU”. 
 
 ### Task
 
 1. Select a good HTML template (If they have licenses create single `LICENSE.md`). 
 
-2. Design a simple one page website for “Mozilla Campus Club - UWU” using given [resources](#resources)
+2. Design a simple one page website for “Computer Society - UWU” using given [resources](#resources)
 
 3. Submit your one page website as a compressed zip file to [Submission](submission) form.
 
@@ -18,23 +18,23 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 
 ### Resources
 
-[Download](download/DesignZillaResources.zip) resources zip file (Contains Presentations, Textual information, Links, Images and Video links).
+[Download](https://drive.google.com/open?id=18aG4YFD7Q5Cajy8c6EzTyRakFHs0PO91) resources zip file (Contains Textual information, Images).
 
 ### Timeline 
 
-- Hackathon starts : 14<sup>th</sup> of March 00:00 AM
-- Hackathon ends : 20<sup>th</sup> of March 00:00 AM (Submit your works via [form](submission))
-- Awarding ceremony : last week of March at Uva Wellassa University 
+- Hackathon starts : 1<sup>th</sup> of September 00:00 AM
+- Hackathon ends : 20<sup>th</sup> of September 00:00 AM (Submit your works via [form](submission))
+- Awarding ceremony : Last week of September at Uva Wellassa University 
 
 ### Winners 
 
-3 Winners will be selected and the most creative web site will be published to [www.mozillauwu.github.io](https://mozillauwu.github.io/) as the official page of "Mozilla Campus Club - UWU"
+3 Winners will be selected and the most creative web site will be published to [www.comsocuwu.github.io](https://comsocuwu.github.io/) as the official page of "Computer Society - UWU"
 
 ### Prizes 
 
 #### First Place
 
-- ***Prize will be announced soon***
+<!-- - ***Prize will be announced soon***
 - [Socialbox](https://www.socialbox.co.com/pricing) gold account (1 year) 
 - [Eezpal](https://eezpal.com) Lifetime web hosting - Igneous (100GB Storage)
 - Mozilla Swag pack + Additional Stickers
@@ -50,10 +50,10 @@ DesignZilla is [one page website](https://onepagelove.com/what-exactly-is-a-one-
 - ***Prize will be announced soon***
 - [Socialbox](https://www.socialbox.co.com/pricing)  basic account (1 year)
 - [Eezpal](https://eezpal.com) Lifetime web hosting - Sedimentary (25GB Storage)
-- Mozilla Swag pack
+- Mozilla Swag pack -->
 
 
-To be announced later. **Surprise!!!**
+To be announced later.
 
 
 ### Scoring scheme
@@ -67,6 +67,8 @@ To be announced later. **Surprise!!!**
 
 ### Judges 
 
-- [Ruwan Ranganath](https://github.com/Ruwan-Ranganath) - _Mozilla Sri Lanka_
+To be announced later.
+
+<!-- - [Ruwan Ranganath](https://github.com/Ruwan-Ranganath) - _Mozilla Sri Lanka_
 - [Shalitha Suranga](https://github.com/shalithasuranga) - _Mozilla Campus Club - UWU_
-- [Imesh Umayanga](https://github.com/imesh94) - _Mozilla Campus Club - UWU_
+- [Imesh Umayanga](https://github.com/imesh94) - _Mozilla Campus Club - UWU_ -->
