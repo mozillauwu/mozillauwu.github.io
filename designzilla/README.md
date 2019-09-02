@@ -68,5 +68,5 @@ More To be announced later...
 - [Chamod Sandaru](https://www.facebook.com/chamod.sadaru) - _Mozilla Sri Lanka_
 - [Narthana Jananjaya](https://www.facebook.com/narthanaj) - _Mozilla Sri Lanka_
 
-- [Isuru Edirisinghe](https://www.facebook.com/isuruedirisinghe80) - _Mozilla Campus Club - UWU_
-- [Supuna Kaumada](https://www.facebook.com/supuna.kaumada) - _Mozilla Campus Club - UWU_
+- [Isuru Edirisinghe](https://www.facebook.com/isuruedirisinghe80) - _Mozilla Campus Club - UWU (Senior Member)_
+- [Supuna Kaumada](https://www.facebook.com/supuna.kaumada) - _Mozilla Campus Club - UWU (Senior Member)_
