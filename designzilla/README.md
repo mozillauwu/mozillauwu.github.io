@@ -36,17 +36,17 @@ DesignZilla V2.0 is [one page website](https://onepagelove.com/what-exactly-is-a
 
 - [SriLankaHosting] (https://www.srilankahosting.com/linux-reseller-hosting.html) Reseller Basic Package (1 year Free) - Value : Rs.10,800 LKR
 - [ServerClub.LK] (https://www.serverclub.lk) SEO Starter Package (1 year Service Free) - Value : Rs.80,000 LKR
-+ Our Stickers Packs  
++ Stickers Packs  
 
 #### 1st Runner up
 
 - [SriLankaHosting] (https://www.srilankahosting.com/linux-reseller-hosting.html) Reseller Basic Package (1 year Free) - Value : Rs.10,800 LKR
 - [ServerClub.LK] (https://www.serverclub.lk) Web Designing Package ( 5 Pages Web Hosting Web Site ) + Basic SEO  - Value : Rs.25,000 LKR
-+ Our Stickers Packs
++ Stickers Packs
 
 #### 2nd Runner up
 - [SriLankaHosting] (https://www.srilankahosting.com/linux-hosting.html) Business Package (1 year Free) - Value : Rs.12,000 LKR
-+ Our Stickers Packs
++ Stickers Packs
 
 
 More To be announced later...
