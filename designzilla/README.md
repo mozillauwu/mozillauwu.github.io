@@ -32,28 +32,24 @@ DesignZilla V2.0 is [one page website](https://onepagelove.com/what-exactly-is-a
 
 ### Prizes 
 
-<!-- #### First Place -->
+#### First Place
 
-<!-- - ***Prize will be announced soon***
-- [Socialbox](https://www.socialbox.co.com/pricing) gold account (1 year) 
-- [Eezpal](https://eezpal.com) Lifetime web hosting - Igneous (100GB Storage)
-- Mozilla Swag pack + Additional Stickers
+- [SriLankaHosting] (https://www.srilankahosting.com/linux-reseller-hosting.html) Reseller Basic Package (1 year Free) - Value : Rs.10,800 LKR
+- [ServerClub.LK] (https://www.serverclub.lk) SEO Starter Package (1 year Service Free) - Value : Rs.80,000 LKR
++ Our Stickers Packs  
 
 #### 1st Runner up
 
-- ***Prize will be announced soon***
-- [Socialbox](https://www.socialbox.co.com/pricing)  silver account (1 year)
-- [Eezpal](https://eezpal.com) Lifetime web hosting - Metamorphic (50GB Storage) 
-- Mozilla Swag pack
+- [SriLankaHosting] (https://www.srilankahosting.com/linux-reseller-hosting.html) Reseller Basic Package (1 year Free) - Value : Rs.10,800 LKR
+- [ServerClub.LK] (https://www.serverclub.lk) Web Designing Package ( 5 Pages Web Hosting Web Site ) + Basic SEO  - Value : Rs.25,000 LKR
++ Our Stickers Packs
 
 #### 2nd Runner up
-- ***Prize will be announced soon***
-- [Socialbox](https://www.socialbox.co.com/pricing)  basic account (1 year)
-- [Eezpal](https://eezpal.com) Lifetime web hosting - Sedimentary (25GB Storage)
-- Mozilla Swag pack -->
+- [SriLankaHosting] (https://www.srilankahosting.com/linux-hosting.html) Business Package (1 year Free) - Value : Rs.12,000 LKR
++ Our Stickers Packs
 
 
-To be announced later.
+More To be announced later...
 
 
 ### Scoring scheme
