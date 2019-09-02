@@ -63,8 +63,10 @@ More To be announced later...
 
 ### Judges 
 
-To be announced later.
+- [Shalitha Suranga](https://github.com/shalithasuranga) - _99X Technology_
 
-<!-- - [Ruwan Ranganath](https://github.com/Ruwan-Ranganath) - _Mozilla Sri Lanka_
-- [Shalitha Suranga](https://github.com/shalithasuranga) - _Mozilla Campus Club - UWU_
-- [Imesh Umayanga](https://github.com/imesh94) - _Mozilla Campus Club - UWU_ -->
+- [Chamod Sandaru](https://www.facebook.com/chamod.sadaru) - _Mozilla Sri Lanka_
+- [Narthana Jananjaya](https://www.facebook.com/narthanaj) - _Mozilla Sri Lanka_
+
+- [Isuru Edirisinghe](https://www.facebook.com/isuruedirisinghe80) - _Mozilla Campus Club - UWU_
+- [Supuna Kaumada](https://www.facebook.com/supuna.kaumada) - _Mozilla Campus Club - UWU_
